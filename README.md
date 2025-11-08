@@ -9,7 +9,7 @@ This script automates the process of running multiple Nexus nodes, each in its o
 Before you begin, you will need to have the following installed and configured:
 
 1.  **WSL and Ubuntu:** This script requires a WSL environment with Ubuntu installed.
-    *   **Guide:** `[Link to your WSL/Ubuntu installation guide]`
+    *   **Guide:** `[[Link to your WSL/Ubuntu installation guide]](https://github.com/rm-killer/WSL-Ubuntu-Installation-Guide)`
 
 2.  **Nexus Node:** You must have the Nexus node software installed and configured within your Ubuntu environment.
     *   **Guide:** `[Link to your Nexus Node installation guide]`
