@@ -30,7 +30,14 @@ Before you begin, you will need to have the following installed and configured:
 
 ## How to Use
 
-1.  **Place your commands in the `commands_list.txt` file.** Open the `commands_list.txt` file and add your `nexus-network start` commands, with one command per line.
+1.  **Add your node commands to the `commands_list.txt` file.** Open the `commands_list.txt` file and add your `nexus-network start` commands. Each line in this file represents a new Nexus node that will be launched in its own terminal tab.
+
+    For example:
+    ```
+    nexus-network start --node-id "YOUR_NODE_ID_1"
+    nexus-network start --node-id "YOUR_NODE_ID_2"
+    ```
+    Replace `"YOUR_NODE_ID_1"`, `"YOUR_NODE_ID_2"`, etc., with your actual Nexus node IDs.
 
 2.  **Open PowerShell or Command Prompt** in the folder where you extracted the files.
 
