@@ -12,7 +12,7 @@ Before you begin, you will need to have the following installed and configured:
     *   **Guide:** [Ubuntu and WSL instalation](https://github.com/rm-killer/WSL-Ubuntu-Installation-Guide)
 
 2.  **Nexus Node:** You must have the Nexus node software installed and configured within your Ubuntu environment.
-    *   **Guide:** `[Link to your Nexus Node installation guide]`
+    *   **Guide:** [Nexus Node Installation](https://github.com/rm-killer/Nexus-Node-installation-guide)
 
 3.  **Python:** You will need Python installed on your Windows system to run the script.
     *   [Download Python](https://www.python.org/downloads/)
